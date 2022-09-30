@@ -4,6 +4,10 @@ https://developer.apple.com/documentation/xcode-release-notes
 
 ## macOS Monterey 12.5
 
+Xcode | Swift | SDKs
+--- | --- | ---
+Xcode 14.1 | Swift 5.7 | iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Ventura 13
+
 - Xcode 14.1 with Swift 5.7 (SDKs for iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Ventura 13)
 - Xcode 14.0.1 with Swift 5.7 (SDKs for iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Monterey 12.3)
 - Xcode 14 with Swift 5.7 (SDKs for iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Monterey 12.3)
