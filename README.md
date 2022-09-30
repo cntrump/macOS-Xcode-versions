@@ -71,13 +71,13 @@ Xcode 11 | Swift 5.1 | iOS 13, iPadOS 13, tvOS 13, watchOS 6, and macOS Catalina
 
 Xcode | Swift | SDKs
 --- | --- | ---
-Xcode 10.3 ｜ Swift 5.0.1 ｜ iOS 12.4, iPadOS 12.4, tvOS 12.4, watchOS 5.3, and macOS Mojave 10.14.6
-Xcode 10.2.1 ｜ Swift 5.0.1 ｜ iOS 12.2, iPadOS 12.2, tvOS 12.2, watchOS 5.2, and macOS Mojave 10.14.4
-Xcode 10.2 ｜ Swift 5.0 ｜ iOS 12.2, iPadOS 12.2, tvOS 12.2, watchOS 5.2, and macOS Mojave 10.14.4
+Xcode 10.3 | Swift 5.0.1 | iOS 12.4, iPadOS 12.4, tvOS 12.4, watchOS 5.3, and macOS Mojave 10.14.6
+Xcode 10.2.1 | Swift 5.0.1 | iOS 12.2, iPadOS 12.2, tvOS 12.2, watchOS 5.2, and macOS Mojave 10.14.4
+Xcode 10.2 | Swift 5.0 | iOS 12.2, iPadOS 12.2, tvOS 12.2, watchOS 5.2, and macOS Mojave 10.14.4
 
 ## macOS High Sierra 10.13.6
 
 Xcode | Swift | SDKs
 --- | --- | ---
-Xcode 10.1 ｜ Swift 4.2.1 ｜ iOS 12.1, iPadOS 12.1, tvOS 12.1, watchOS 5.1, and macOS Mojave 10.14.1
+Xcode 10.1 | Swift 4.2.1 | iOS 12.1, iPadOS 12.1, tvOS 12.1, watchOS 5.1, and macOS Mojave 10.14.1
 Xcode 10 | Swift 4.2 | iOS 12, iPadOS 12, tvOS 12, watchOS 5, and macOS Mojave 10.14
