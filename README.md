@@ -6,7 +6,8 @@ https://developer.apple.com/documentation/xcode-release-notes
 
 Xcode | Swift | SDKs
 --- | --- | ---
-Xcode 14.1 | [Swift 5.7](https://download.swift.org/swift-5.7-release/xcode/swift-5.7-RELEASE/swift-5.7-RELEASE-osx.pkg) | iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Ventura 13
+Xcode 14.2 | [Swift 5.7](https://download.swift.org/swift-5.7-release/xcode/swift-5.7-RELEASE/swift-5.7-RELEASE-osx.pkg) | iOS 16.2, iPadOS 16.2, tvOS 16.1, watchOS 9.1, and macOS Ventura 13.1
+Xcode 14.1 | [Swift 5.7](https://download.swift.org/swift-5.7-release/xcode/swift-5.7-RELEASE/swift-5.7-RELEASE-osx.pkg) | iOS 16.1, iPadOS 16.1, tvOS 16.1, watchOS 9.1, and macOS Ventura 13
 Xcode 14.0.1 | [Swift 5.7](https://download.swift.org/swift-5.7-release/xcode/swift-5.7-RELEASE/swift-5.7-RELEASE-osx.pkg) | iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Monterey 12.3
 Xcode 14 | [Swift 5.7](https://download.swift.org/swift-5.7-release/xcode/swift-5.7-RELEASE/swift-5.7-RELEASE-osx.pkg) | iOS 16, iPadOS 16, tvOS 16, watchOS 9, and macOS Monterey 12.3
 
